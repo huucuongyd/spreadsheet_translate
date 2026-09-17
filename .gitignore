@@ -1,0 +1,4 @@
+/docx
+.venv
+__pycache__
+*.xlsx
